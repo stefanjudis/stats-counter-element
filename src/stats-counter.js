@@ -32,8 +32,8 @@ class StatsCounter extends HTMLElement {
 
     this.innerHTML = `
       <dl class="${isLoaded ? 'is-loaded' : ''}">
-        <dd>Views</dd>
-        <dt>${views === null ? '...' : views}</dt>
+        <dt>Views</dt>
+        <dd>${views === null ? '...' : views}</dd>
       </dl>
     `;
   }
