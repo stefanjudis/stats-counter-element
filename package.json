@@ -1,6 +1,6 @@
 {
   "name": "@stefanjudis/stats-counter-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A stats counter custom element",
   "main": "src/stats-counter.js",
   "scripts": {
